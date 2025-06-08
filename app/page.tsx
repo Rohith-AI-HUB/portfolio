@@ -729,7 +729,7 @@ export default function Portfolio() {
 
                   <div className="space-y-2">
                     <div className="flex justify-between items-center">
-                      <span className="text-gray-700 font-medium">Hindi</span>
+                      <span className="text-gray-700 font-medium">Tamil</span>
                       <span className="text-xs bg-blue-100 text-blue-800 px-2 py-1 rounded-full">Native</span>
                     </div>
                     <div className="w-full bg-gray-200 rounded-full h-2">
