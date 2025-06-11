@@ -494,7 +494,7 @@ export default function Portfolio() {
             {/* Image Column */}
             <div className="relative">
               <img
-                src="/images/profile.png?height=500&width=500"
+                src="/images/profile.png"
                 alt="AI Professional"
                 className="rounded-2xl shadow-2xl w-full max-w-md mx-auto"
               />
