@@ -1305,7 +1305,7 @@ export default function Portfolio() {
                   </a>
 
                   <a
-                    href="https://linkedin.com/in/rohith-ai-hub"
+                    href="https://www.linkedin.com/in/rohith-b-04082003rb/"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="flex items-center space-x-4 hover:bg-gray-50 p-3 rounded-lg transition-colors cursor-pointer"
