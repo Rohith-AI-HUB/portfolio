@@ -228,7 +228,7 @@ export default function Portfolio() {
       location: "Bangalore, India",
       period: "Nov 2021 - Jun 2025 (Expected)",
       description:
-        "Currently pursuing Bachelor's degree in AI & ML with current CGPA: 6.46/10.0. Core courses include Machine Learning, Deep Learning, Data Structures, AI, and Computer Vision. Actively involved in research projects and AI development.",
+        "Currently pursuing Bachelor's degree in AI & ML with current CGPA: 6.74/10.0. Core courses include Machine Learning, Deep Learning, Data Structures, AI, and Computer Vision. Actively involved in research projects and AI development.",
       icon: "🎓",
     },
   ]
@@ -594,7 +594,7 @@ export default function Portfolio() {
                 <p className="text-gray-700 leading-relaxed text-base mb-4 text-justify">
                   Passionate AI & Machine Learning Engineering student at BMS College of Engineering with a strong
                   foundation in developing intelligent systems that solve real-world problems. Currently maintaining a
-                  CGPA of 6.46/10.0 while actively pursuing cutting-edge research in AI applications.
+                  CGPA of 6.74/10.0 while actively pursuing cutting-edge research in AI applications.
                 </p>
                 <p className="text-gray-700 leading-relaxed text-base mb-4 text-justify">
                   Experienced in full-stack development with expertise in React.js, Python, and modern AI frameworks.
@@ -641,7 +641,7 @@ export default function Portfolio() {
                     Short-term Goals (2025)
                   </h4>
                   <ul className="text-gray-700 ml-5 space-y-1">
-                    <li>• Complete B.E. in AI & ML with distinction</li>
+                    <li>• Complete B.E. in AI & ML</li>
                     <li>• Contribute to open-source AI projects</li>
                     <li>• Gain industry certifications in cloud AI services</li>
                   </ul>
@@ -753,7 +753,17 @@ export default function Portfolio() {
                       <span className="text-xs bg-purple-100 text-purple-800 px-2 py-1 rounded-full">Basic</span>
                     </div>
                     <div className="w-full bg-gray-200 rounded-full h-2">
-                      <div className="bg-purple-500 h-2 rounded-full" style={{ width: "60%" }}></div>
+                      <div className="bg-purple-500 h-2 rounded-full" style={{ width: "50%" }}></div>
+                    </div>
+                  </div>
+
+                  <div className="space-y-2">
+                    <div className="flex justify-between items-center">
+                      <span className="text-gray-700 font-medium">Hindi</span>
+                      <span className="text-xs bg-yellow-100 text-yellow-800 px-2 py-1 rounded-full">Basic</span>
+                    </div>
+                    <div className="w-full bg-gray-200 rounded-full h-2">
+                      <div className="bg-yellow-500 h-2 rounded-full" style={{ width: "60%" }}></div>
                     </div>
                   </div>
                 </div>
